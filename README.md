@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mTvare6&langs_count=20&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirexdoors&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mTvare6&theme=gruvbox&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mirexdoors&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/mikhail-prokudin-520ba117a?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-prokudin-520ba117a/)
