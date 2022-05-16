@@ -12,3 +12,8 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![mirexdoors's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirexdoors&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
+
+
+#### My articles:
+
+* [Что такое переменная в программировании](https://skysmart.ru/articles/programming/peremennaya-v-programmirovanii) 
