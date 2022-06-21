@@ -17,3 +17,4 @@
 #### My articles:
 
 * [Что такое переменная в программировании](https://skysmart.ru/articles/programming/peremennaya-v-programmirovanii) 
+* [Визуальное программирование](https://skysmart.ru/articles/programming/vizualnoe-programmirovanie)
