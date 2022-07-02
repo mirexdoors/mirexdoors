@@ -13,6 +13,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![mirexdoors's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirexdoors&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
 
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=bar_dot" width="400"/>
+</a>
 
 #### My articles:
 
