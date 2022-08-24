@@ -14,7 +14,7 @@
 ![mirexdoors's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirexdoors&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
 
 ### Leetcode stats
-**Highest Rank:** 761 308
+**Highest Rank:** 754 733
 
 [![bar_dot's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bar_dot&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
