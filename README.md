@@ -22,3 +22,5 @@
 
 * [Что такое переменная в программировании](https://skysmart.ru/articles/programming/peremennaya-v-programmirovanii) 
 * [Визуальное программирование](https://skysmart.ru/articles/programming/vizualnoe-programmirovanie)
+* [Архитектура компьютера](https://skysmart.ru/articles/programming/arhitektura-kompyutera)
+* [Что такое HTML](https://skysmart.ru/articles/programming/chto-takoe-html-kod)
