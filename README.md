@@ -14,7 +14,7 @@
 ![mirexdoors's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirexdoors&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)
 
 ### Leetcode stats
-**Highest Rank:** 697 704
+**Highest Rank:** 697 082
 
 [![bar_dot's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bar_dot&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
@@ -24,3 +24,5 @@
 * [Визуальное программирование](https://skysmart.ru/articles/programming/vizualnoe-programmirovanie)
 * [Архитектура компьютера](https://skysmart.ru/articles/programming/arhitektura-kompyutera)
 * [Что такое HTML](https://skysmart.ru/articles/programming/chto-takoe-html-kod)
+* [Двухфакторная аутентификация](https://skysmart.ru/articles/programming/dvuhfaktornaya-autentifikaciya)
+* [Что такое CSS](https://skysmart.ru/articles/programming/chto-takoe-css)
